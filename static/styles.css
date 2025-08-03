@@ -1,0 +1,88 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #0f0f0f;
+  color: #f5f5f5;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px 20px;
+  min-height: 100vh;
+}
+
+/* Heading */
+h1 {
+  margin-bottom: 20px;
+  font-size: 2.5rem;
+  letter-spacing: 0.5px;
+}
+
+/* Webcam video feed */
+video,
+img {
+  border: 2px solid #333;
+  border-radius: 16px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.5);
+  max-width: 95%;
+  height: auto;
+  margin-bottom: 30px;
+}
+
+/* Input and Button */
+input,
+button {
+  padding: 12px 16px;
+  font-size: 16px;
+  border-radius: 10px;
+  border: none;
+  width: 100%;
+  max-width: 400px;
+  margin-top: 10px;
+}
+
+input {
+  background: #1e1e1e;
+  color: #fff;
+  border: 1px solid #444;
+  transition: border 0.3s ease;
+}
+
+input:focus {
+  border-color: #00bcd4;
+  outline: none;
+}
+
+button {
+  background: #00bcd4;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s;
+}
+
+button:hover {
+  background: #0097a7;
+  transform: scale(1.03);
+}
+
+
+#status {
+  margin-top: 12px;
+  font-size: 14px;
+  color: #ffc107;
+}
+
+/* Mobile adjustments */
+@media (max-width: 600px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  input,
+  button {
+    font-size: 15px;
+  }
+}
