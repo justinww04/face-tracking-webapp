@@ -13,7 +13,6 @@ cam = cv2.VideoCapture(0)
 if not cam.isOpened():
     raise RuntimeError("❌ Could not open webcam.")
 
-
 def gen_frames():
     min_face_size = 80 
 
