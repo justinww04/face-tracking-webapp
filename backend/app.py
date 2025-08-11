@@ -13,9 +13,9 @@ cam = cv2.VideoCapture(0)
 if not cam.isOpened():
     raise RuntimeError("❌ Could not open webcam.")
 
-#Live Feed Generator
+
 def gen_frames():
-    min_face_size = 80  # Adjusts minimum face width and height in pixels to reduce false positives
+    min_face_size = 80 
 
     while True:
         success, frame = cam.read()
