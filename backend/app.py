@@ -27,10 +27,10 @@ def gen_frames():
         faces = [f for f in faces if f[2] >= min_face_size and f[3] >= min_face_size]
 
         for (x, y, w, h) in faces:
-            # Draw green rectangle around face
+            
             cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
 
-            # Display "Face in Frame"
+            
             cv2.putText(frame, "Face in Frame", (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (0, 255, 0), 2)
 
         ret, buffer = cv2.imencode('.jpg', frame)
