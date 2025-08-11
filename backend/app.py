@@ -39,7 +39,6 @@ def gen_frames():
 
         yield (b'--frame\r\nContent-Type: image/jpeg\r\n\r\n' + buffer.tobytes() + b'\r\n')
 
-#Routes
 @app.route('/')
 def index():
     return render_template("index.html")
