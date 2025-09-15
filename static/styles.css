@@ -75,7 +75,7 @@ button:hover {
   color: #ffc107;
 }
 
-/* Mobile adjustments */
+/* Mobile*/
 @media (max-width: 600px) {
   h1 {
     font-size: 2rem;
