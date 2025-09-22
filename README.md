@@ -16,6 +16,8 @@ It uses your webcam to detect faces, draws green bounding boxes around them, and
 - 🔒 No enrollment, no storage, no recognition — 100% safe to demo or showcase
 - 💻 Built with Python, Flask, and OpenCV
 
+- In non showcase version enrollment is completed. 
+
 ---
 
 ### 📸 Demo
