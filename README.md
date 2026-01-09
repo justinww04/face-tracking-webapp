@@ -26,6 +26,8 @@ It uses your webcam to detect faces, draws green bounding boxes around them, and
 - Real Time Facial Recognition learning is available in non showcase version.
 - SMS Alert for faces shown in camera is available in non showcase versions.
 
+- new update next week
+
 ---
 
 ### 📸 Demo
