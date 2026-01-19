@@ -19,7 +19,7 @@ It uses your webcam to detect faces, draws green bounding boxes around them, and
 - 2fa verification
 - sms alerts
 - User roles
-- updated css
+- updated css- re did color scheme
 -updated home page
 - In non showcase version enrollment is completed.
 - Admin Controls Panel is accesible in non showcase version.
