@@ -18,7 +18,7 @@ It uses your webcam to detect faces, draws green bounding boxes around them, and
 - amin panel
 - 2fa verification
 - sms alerts
-- User roles
+- User roles - added more rules and authorites with roles
 - updated css- re did color scheme
 -updated home page
 - In non showcase version enrollment is completed.
