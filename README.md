@@ -20,7 +20,7 @@ It uses your webcam to detect faces, draws green bounding boxes around them, and
 - sms alerts -- updated -- updated redone 
 - User roles - added more rules and authorites with roles -- added more authority options
 - updated css- re did color scheme updates 
--updated home page
+-updated home page - changed layout 
 - In non showcase version enrollment is completed.
 - Admin Controls Panel is accesible in non showcase version.
 - Real Time Facial Recognition is available in non showcase version.
