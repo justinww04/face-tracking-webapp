@@ -16,7 +16,7 @@ It uses your webcam to detect faces, draws green bounding boxes around them, and
 - 🔒 No enrollment, no storage, no recognition — 100% safe to demo or showcase
 - 💻 Built with Python, Flask, and OpenCV
 - amin panel -- updated
-- 2fa verification -- updated
+- 2fa verification -- updated - added more options
 - sms alerts -- updated -- updated redone 
 - User roles - added more rules and authorites with roles -- added more authority options
 - updated css- re did color scheme updates 
