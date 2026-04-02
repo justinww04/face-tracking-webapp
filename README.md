@@ -12,6 +12,7 @@ It uses your webcam to detect faces, draws green bounding boxes around them, and
 ### 🔍 Features
 
 - 📷 Real-time face detection via webcam
+- -item detection (work in progress)
 
 - 🔒 No enrollment, no storage, no recognition — 100% safe to demo or showcase
 - 💻 Built with Python, Flask, and OpenCV
