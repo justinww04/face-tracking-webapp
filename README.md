@@ -26,7 +26,7 @@ It uses your webcam to detect faces, draws green bounding boxes around them, and
 - Admin Controls Panel is accesible in non showcase version.- updated 
 - Real Time Facial Recognition is available in non showcase version.
 - Real Time Facial Recognition learning is available in non showcase version. - updated
-- SMS Alert for faces shown in camera is available in non showcase versions.  - updated -updated 
+- SMS Alert for faces shown in camera is available in non showcase versions.  - updated -updated --
 
 
 ---
