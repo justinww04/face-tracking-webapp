@@ -2,7 +2,7 @@
 
 This is a real-time **face tracking** web application built with **Flask** and **OpenCV**.  
 It uses your webcam to detect faces, draws green bounding boxes around them, and shows a label explaining what's being tracked — all without storing any personal data.
-
+-added demo mode 
 > ✅ No recognition  
 > ✅ No data storage  
 > ✅ Just clean, ethical face detection
