@@ -40,7 +40,7 @@ _(Optional: Add screenshots or a YouTube demo link here later.)_
 
 ---
 
-### 🚀 How to Run Locally
+### 🚀 How to Run Locally, with all needed downloads
 
 ```bash
 # 1. Clone the repo
